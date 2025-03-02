@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luxury Timepieces</title>
+    <title>Luxury Timepieces </title>
     <link rel="stylesheet" href="style.css">
     <style>
         body {
@@ -136,6 +136,8 @@
         <h2>1st Time in Nepal - At pokhara-11,Nepal</h2>
         <p>Find our offline store at Pokhara, Nepal.</p>
         <p>Infront of Manipal Teching Hospital</p>
+        <p>project complete huna baki xa hai sir 
+        project by boys of bhasker's 12 stds</p>
     </div>
 
     <!-- Audio element for the sound -->
